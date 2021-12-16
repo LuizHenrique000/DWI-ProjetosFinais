@@ -1,0 +1,18 @@
+div.image {
+  content: url("https://cdn.discordapp.com/attachments/893927524978028557/920829190129975396/unknown.png");
+  width: 30%;
+  height: auto;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+tr:hover {
+  background-color: gray;
+}
