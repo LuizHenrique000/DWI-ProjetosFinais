@@ -1,0 +1,12 @@
+div.cabecalho {
+  background-color: gray;
+  margin: -10px;
+}
+div.titulo {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  max-width: 80ch;
+  text-overflow: ellipsis;
+}
+div.rodape {
+  background-color: gray;
+}
