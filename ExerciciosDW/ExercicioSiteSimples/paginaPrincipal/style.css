@@ -1,9 +1,9 @@
-body,
-p {
+body {
   margin: 0px;
 }
 p {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 0px;
 }
 div.cabecalho {
   background-color: gray;
@@ -16,6 +16,11 @@ div.texto {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   max-width: 80ch;
   padding: 50px;
+  margin: 0 auto;
+  width: 700px;
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 1em;
 }
 div.rodape {
   background-color: gray;
@@ -33,6 +38,3 @@ div.a {
   border-radius: 5px;
   color: brown;
 }
-/* div.primeiroTexto,
-div.segundoTexto {
-} */
