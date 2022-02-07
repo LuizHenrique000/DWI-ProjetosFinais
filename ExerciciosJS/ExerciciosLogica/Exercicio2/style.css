@@ -1,0 +1,24 @@
+body {
+  margin: 0px;
+}
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 0px;
+}
+div.cabecalho {
+  background-color: gray;
+  height: 100%;
+  left: 0;
+  top: 100%;
+  padding: 20px;
+}
+div.rodape {
+  background-color: gray;
+  color: black;
+  clear: both;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px;
+}
